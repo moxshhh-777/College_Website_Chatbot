@@ -1,3 +1,5 @@
+#for Copy Paste in terminal , if any error occur in -r requirenments.
+
 pip install langchain==1.2.10
 pip install langchain-community
 pip install langchain-text-splitters
