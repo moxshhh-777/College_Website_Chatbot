@@ -1,0 +1,18 @@
+python -m venv venv
+venv\Scripts\activate
+ctrl + shift + p , venv\Scripts\python.exe
+
+python -m pip install --upgrade pip
+
+pip install -r requirements.txt
+
+
+#scraping the website 
+    python ingest.py
+    uvicorn api.main:app --reload4\    http://127.0.0.1:8000/docs
+
+#Frontend streamlit
+    streamlit run ui/app.py
+
+COLLEGE_CHATBOT Opened !  
+

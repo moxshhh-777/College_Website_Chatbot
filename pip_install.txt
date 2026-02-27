@@ -1,0 +1,12 @@
+pip install langchain==1.2.10
+pip install langchain-community
+pip install langchain-text-splitters
+pip install langchain-groq
+pip install sentence-transformers==2.7.0
+pip install transformers==4.40.1
+pip install faiss-cpu
+pip install fastapi uvicorn
+pip install streamlit
+pip install python-dotenv
+pip install beautifulsoup4 requests
+pip install langchain-huggingface

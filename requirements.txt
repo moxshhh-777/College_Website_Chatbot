@@ -1,0 +1,15 @@
+langchain==1.2.10
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-groq
+sentence-transformers==2.7.0
+transformers==4.40.1
+faiss-cpu
+fastapi
+uvicorn
+streamlit
+requests
+beautifulsoup4
+python-dotenv
+ 
